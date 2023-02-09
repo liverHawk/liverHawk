@@ -6,9 +6,8 @@ Student in Osaka Metropolitan University.
 
 # Account URLs
 
-[1]
-
-[2]
+[1]...ポートフォリオ
+[2]...学校ブログ
 
 # このアカウントについて
 
