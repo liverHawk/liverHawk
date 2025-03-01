@@ -6,7 +6,34 @@ Student in Osaka Metropolitan University.
 
 ## About My GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liverHawk)](https://github.com/anuraghazra/github-readme-stats)
+### Language
 
-[1]:https://www.foriio.com/tn1019
-[2]:http://o0s2a6ka.wp.xdomain.jp/
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,dart,deno,java,js,latex,less,md,mysql,php,powershell,py,ruby,rust,solidity,ts" />
+  </a>
+</p>
+
+### Framework
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,astro,express,nextjs,rails,react,tailwind,tauri,vite,vue" />
+  </a>
+</p>
+
+### Tool
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,ansible,bitbucket,bun,cloudflare,codepen,figma,git,github,gitlab,ipfs,neovim,nginx,npm,openstack,pnpm,pytorch,postgres" />
+  </a>
+</p>
+
+### Env
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,docker" />
+  </a>
+</p>
